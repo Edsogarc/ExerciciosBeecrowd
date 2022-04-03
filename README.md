@@ -1,0 +1,105 @@
+# Exercícios da plataforma [beecrowd](https://www.beecrowd.com.br/judge/en/login) ✍🏻
+
+- Exercício 1001 - [Extremamente básico](https://www.beecrowd.com.br/judge/pt/problems/view/1001) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1001/Program.cs) ✔️
+- Exercício 1002 - [Área do Círculo](https://www.beecrowd.com.br/judge/pt/problems/view/1002) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1002/Program.cs) ✔️
+- Exercício 1003 - [Soma Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1003) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1003/Program.cs) ✔️
+- Exercício 1004 - [Produto Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1004) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1004/Program.cs) ✔️
+- Exercício 1005 - [Média 1](https://www.beecrowd.com.br/judge/pt/problems/view/1005) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1005/Program.cs) ✔️
+- Exercício 1006 - [Média 2](https://www.beecrowd.com.br/judge/pt/problems/view/1006) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1006/Program.cs) ✔️
+- Exercício 1007 - [Diferença](https://www.beecrowd.com.br/judge/pt/problems/view/1007) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1007/Program.cs) ✔️
+- Exercício 1008 - [Salário](https://www.beecrowd.com.br/judge/pt/problems/view/1008) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1008/Program.cs) ✔️
+- Exercício 1009 - [Salário com Bônus](https://www.beecrowd.com.br/judge/pt/problems/view/1009) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1009/Program.cs) ✔️
+- Exercício 1010 - [Cálculo Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1010) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1010/Program.cs) ✔️
+- Exercício 1011 - [Esfera](https://www.beecrowd.com.br/judge/pt/problems/view/1011) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1011/Program.cs) ✔️
+- Exercício 1012 - [Área](https://www.beecrowd.com.br/judge/pt/problems/view/1012) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1012/Program.cs) ✔️
+- Exercício 1013 - [O Maior](https://www.beecrowd.com.br/judge/pt/problems/view/1013) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1013/Program.cs) ✔️
+- Exercício 1014 - [Consumo](https://www.beecrowd.com.br/judge/pt/problems/view/1014) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1014/Program.cs) ✔️
+- Exercício 1015 - [Distância Entre Dois Pontos](https://www.beecrowd.com.br/judge/pt/problems/view/1015) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1015/Program.cs) ✔️
+- Exercício 1016 - [Distância](https://www.beecrowd.com.br/judge/pt/problems/view/1016) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1016/Program.cs) ✔️
+- Exercício 1017 - [Gasto de Combustível](https://www.beecrowd.com.br/judge/pt/problems/view/1017) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1017/Program.cs) ✔️
+- Exercício 1018 - [Cédulas](https://www.beecrowd.com.br/judge/pt/problems/view/1018) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1018/Program.cs) ✔️
+- Exercício 1019 - [Conversão de Tempo](https://www.beecrowd.com.br/judge/pt/problems/view/1019) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1019/Program.cs) ✔️
+- Exercício 1035 - [Teste de Seleção 1](https://www.beecrowd.com.br/judge/pt/problems/view/1035) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1035/Program.cs) ✔️
+- Exercício 1036 - [Fórmula de Bhaskara](https://www.beecrowd.com.br/judge/pt/problems/view/1036) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1036/Program.cs) ✔️
+- Exercício 1037 - [Intervalo](https://www.beecrowd.com.br/judge/pt/problems/view/1037) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1037/Program.cs) ✔️
+- Exercício 1038 - [Lanche](https://www.beecrowd.com.br/judge/pt/problems/view/1038) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1038/Program.cs) ✔️
+- Exercício 1040 - [Média 3](https://www.beecrowd.com.br/judge/pt/problems/view/1040) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1040/Program.cs) ✔️
+- Exercício 1041 - [Coordenadas de um Ponto](https://www.beecrowd.com.br/judge/pt/problems/view/1041) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1041/Program.cs) ✔️
+- Exercício 1042 - [Sort Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1042) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1042/Program.cs) ✔️
+- Exercício 1043 - [Triângulo](https://www.beecrowd.com.br/judge/pt/problems/view/1043) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1043/Program.cs) ✔️
+- Exercício 1044 - [Múltiplos](https://www.beecrowd.com.br/judge/pt/problems/view/1044) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1044/Program.cs) ✔️
+- Exercício 1045 - [Tipos de Triângulos](https://www.beecrowd.com.br/judge/pt/problems/view/1045) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1045/Program.cs) ✔️
+- Exercício 1046 - [Tempo de Jogo](https://www.beecrowd.com.br/judge/pt/problems/view/1046) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1046/Program.cs) ✔️
+- Exercício 1047 - [Tempo de Jogo com Minutos](https://www.beecrowd.com.br/judge/pt/problems/view/1047) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1047/Program.cs) ✔️
+- Exercício 1048 - [Aumento de Salário](https://www.beecrowd.com.br/judge/pt/problems/view/1048) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1048/Program.cs) ✔️
+- Exercício 1050 - [DDD](https://www.beecrowd.com.br/judge/pt/problems/view/1050) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1050/Program.cs) ✔️
+- Exercício 1051 - [Imposto de Renda](https://www.beecrowd.com.br/judge/pt/problems/view/1051) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1051/Program.cs) ✔️
+- Exercício 1052 - [Mês](https://www.beecrowd.com.br/judge/pt/problems/view/1052) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1052/Program.cs) ✔️
+- Exercício 1059 - [Números Pares](https://www.beecrowd.com.br/judge/pt/problems/view/1059) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1059/Program.cs) ✔️
+- Exercício 1060 - [Números Positivos](https://www.beecrowd.com.br/judge/pt/problems/view/1060) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1060/Program.cs) ✔️
+- Exercício 1061 - [Tempo de um Evento](https://www.beecrowd.com.br/judge/pt/problems/view/1061) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1061/Program.cs) ✔️
+- Exercício 1064 - [Positivos e Média](https://www.beecrowd.com.br/judge/pt/problems/view/1064) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1064/Program.cs) ✔️
+- Exercício 1065 - [Pares entre Cinco Números](https://www.beecrowd.com.br/judge/pt/problems/view/1065) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1065/Program.cs) ✔️
+- Exercício 1066 - [Pares, Ímpares, Positivos e Negativos](https://www.beecrowd.com.br/judge/pt/problems/view/1066) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1066/Program.cs) ✔️
+- Exercício 1067 - [Números Ímpares](https://www.beecrowd.com.br/judge/pt/problems/view/1067) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1067/Program.cs) ✔️
+- Exercício 1070 - [Seis Números Ímpares](https://www.beecrowd.com.br/judge/pt/problems/view/1070) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1070/Program.cs) ✔️
+- Exercício 1071 - [Soma de Impares Consecutivos I](https://www.beecrowd.com.br/judge/pt/problems/view/1071) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1071/Program.cs) ✔️
+- Exercício 1072 - [Intervalo 2](https://www.beecrowd.com.br/judge/pt/problems/view/1072) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1072/Program.cs) ✔️
+- Exercício 1073 - [Quadrado de Pares](https://www.beecrowd.com.br/judge/pt/problems/view/1073) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1073/Program.cs) ✔️
+- Exercício 1074 - [Par ou Ímpar](https://www.beecrowd.com.br/judge/pt/problems/view/1074) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1074/Program.cs) ✔️
+- Exercício 1075 - [Resto 2](https://www.beecrowd.com.br/judge/pt/problems/view/1075) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1075/Program.cs) ✔️
+- Exercício 1078 - [Tabuada](https://www.beecrowd.com.br/judge/pt/problems/view/1078) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1078/Program.cs) ✔️
+- Exercício 1079 - [Médias Ponderadas](https://www.beecrowd.com.br/judge/pt/problems/view/1079) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1079/Program.cs) ✔️
+- Exercício 1080 - [Maior e Posição](https://www.beecrowd.com.br/judge/pt/problems/view/1080) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1080/Program.cs) ✔️
+- Exercício 1094 - [Experiências](https://www.beecrowd.com.br/judge/pt/problems/view/1094) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1094/Program.cs) ✔️
+- Exercício 1095 - [Sequencia IJ 1](https://www.beecrowd.com.br/judge/pt/problems/view/1095) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1095/Program.cs) ✔️
+- Exercício 1096 - [Sequencia IJ 2](https://www.beecrowd.com.br/judge/pt/problems/view/1096) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1096/Program.cs) ✔️
+- Exercício 1097 - [Sequencia IJ 3](https://www.beecrowd.com.br/judge/pt/problems/view/1097) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1097/Program.cs) ✔️
+- Exercício 1098 - [Sequencia IJ 4](https://www.beecrowd.com.br/judge/pt/problems/view/1098) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1098/Program.cs) ✔️
+- Exercício 1099 - [Soma de Ímpares Consecutivos II](https://www.beecrowd.com.br/judge/pt/problems/view/1099) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1099/Program.cs) ✔️
+- Exercício 1101 - [Sequência de Números e Soma](https://www.beecrowd.com.br/judge/pt/problems/view/1101) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1101/Program.cs) ✔️
+- Exercício 1113 - [Crescente e Decrescente](https://www.beecrowd.com.br/judge/pt/problems/view/1113) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1113/Program.cs) ✔️
+- Exercício 1114 - [Senha Fixa](https://www.beecrowd.com.br/judge/pt/problems/view/1114) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1114/Program.cs) ✔️
+- Exercício 1115 - [Quadrante](https://www.beecrowd.com.br/judge/pt/problems/view/1115) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1115/Program.cs) ✔️
+- Exercício 1116 - [Dividindo X por Y](https://www.beecrowd.com.br/judge/pt/problems/view/1116) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1116/Program.cs) ✔️
+- Exercício 1117 - [Validação de Nota](https://www.beecrowd.com.br/judge/pt/problems/view/1117) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1117/Program.cs) ✔️
+- Exercício 1118 - [Várias Notas Com Validação](https://www.beecrowd.com.br/judge/pt/problems/view/1118) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1118/Program.cs) ✔️
+- Exercício 1131 - [Grenais](https://www.beecrowd.com.br/judge/pt/problems/view/1131) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1131/Program.cs) ✔️
+- Exercício 1132 - [Múltiplos de 13](https://www.beecrowd.com.br/judge/pt/problems/view/1132) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1132/Program.cs) ✔️
+- Exercício 1133 - [Resto da Divisão](https://www.beecrowd.com.br/judge/pt/problems/view/1133) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1133/Program.cs) ✔️
+- Exercício 1134 - [Tipo de Combustível](https://www.beecrowd.com.br/judge/pt/problems/view/1134) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1134/Program.cs) ✔️
+- Exercício 1142 - [PUM](https://www.beecrowd.com.br/judge/pt/problems/view/1142) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1142/Program.cs) ✔️
+- Exercício 1143 - [Quadrado e ao Cubo](https://www.beecrowd.com.br/judge/pt/problems/view/1143) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1143/Program.cs) ✔️
+- Exercício 1144 - [Sequência Lógica](https://www.beecrowd.com.br/judge/pt/problems/view/1144) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1144/Program.cs) ✔️
+- Exercício 1145 - [Sequência Lógica 2](https://www.beecrowd.com.br/judge/pt/problems/view/1145) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1145/Program.cs) ✔️
+- Exercício 1146 - [Sequências Crescentes](https://www.beecrowd.com.br/judge/pt/problems/view/1146) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1146/Program.cs) ✔️
+- Exercício 1149 - [Somando Inteiros Consecutivos](https://www.beecrowd.com.br/judge/pt/problems/view/1149) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1149/Program.cs) ✔️
+- Exercício 1150 - [Ultrapassando Z](https://www.beecrowd.com.br/judge/pt/problems/view/1150) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1150/Program.cs) ✔️
+- Exercício 1151 - [Fibonacci Fácil](https://www.beecrowd.com.br/judge/pt/problems/view/1151) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1151/Program.cs) ✔️
+- Exercício 1153 - [Fatorial Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1153) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1153/Program.cs) ✔️
+- Exercício 1154 - [Idades](https://www.beecrowd.com.br/judge/pt/problems/view/1154) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1154/Program.cs) ✔️
+- Exercício 1155 - [Sequência S](https://www.beecrowd.com.br/judge/pt/problems/view/1155) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1155/Program.cs) ✔️
+- Exercício 1156 - [Sequência S II](https://www.beecrowd.com.br/judge/pt/problems/view/1156) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1156/Program.cs) ✔️
+- Exercício 1157 - [Divisores I](https://www.beecrowd.com.br/judge/pt/problems/view/1157) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1157/Program.cs) ✔️
+- Exercício 1158 - [Soma de Ímpares Consecutivos III](https://www.beecrowd.com.br/judge/pt/problems/view/1158) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1158/Program.cs) ✔️
+- Exercício 1159 - [Soma de Pares Consecutivos](https://www.beecrowd.com.br/judge/pt/problems/view/1159) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1159/Program.cs) ✔️
+- Exercício 1160 - [Crescimento Populacional](https://www.beecrowd.com.br/judge/pt/problems/view/1160) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1160/Program.cs) ✔️
+- Exercício 1164 - [Número Perfeito](https://www.beecrowd.com.br/judge/pt/problems/view/1164) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1164/Program.cs) ✔️
+- Exercício 1165 - [Número Primo](https://www.beecrowd.com.br/judge/pt/problems/view/1165) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1165/Program.cs) ✔️
+- Exercício 1172 - [Substituição em Vetor I](https://www.beecrowd.com.br/judge/pt/problems/view/1172) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1172/Program.cs) ✔️
+- Exercício 1173 - [Preenchimento de Vetor I](https://www.beecrowd.com.br/judge/pt/problems/view/1173) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1173/Program.cs) ✔️
+- Exercício 1174 - [Seleçao em Vetor I](https://www.beecrowd.com.br/judge/pt/problems/view/1174) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1174/Program.cs) ✔️
+- Exercício 1175 - [Troca em Vetor I](https://www.beecrowd.com.br/judge/pt/problems/view/1175) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1175/Program.cs) ✔️
+- Exercício 1177 - [Preenchimento de Vetor II](https://www.beecrowd.com.br/judge/pt/problems/view/1177) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1177/Program.cs) ✔️
+- Exercício 1178 - [Preenchimento de Vetor III](https://www.beecrowd.com.br/judge/pt/problems/view/1178) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1178/Program.cs) ✔️
+- Exercício 1179 - [Preenchimento de Vetor IV](https://www.beecrowd.com.br/judge/pt/problems/view/1179) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1179/Program.cs) ✔️
+- Exercício 1180 - [Menor e Posição](https://www.beecrowd.com.br/judge/pt/problems/view/1180) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1180/Program.cs) ✔️
+- Exercício 1182 - [Coluna na Matriz](https://www.beecrowd.com.br/judge/pt/problems/view/1182) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1182/Program.cs) ✔️
+- Exercício 1183 - [Acima da Diagonal Principal](https://www.beecrowd.com.br/judge/pt/problems/view/1183) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1183/Program.cs) ✔️
+- Exercício 1184 - [Abaixo da Diagonal Principal](https://www.beecrowd.com.br/judge/pt/problems/view/1184) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1184/Program.cs) ✔️
+- Exercício 1185 - [Acima da Diagonal Secundária](https://www.beecrowd.com.br/judge/pt/problems/view/1185) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1185/Program.cs) ✔️
+- Exercício 1186 - [Abaixo da Diagonal Secundária](https://www.beecrowd.com.br/judge/pt/problems/view/1186) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1186/Program.cs) ✔️
+- Exercício 1187 - [Área Superior](https://www.beecrowd.com.br/judge/pt/problems/view/1187) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1187/Program.cs) ✔️
+- Exercício 1188 - [Área Inferior](https://www.beecrowd.com.br/judge/pt/problems/view/1188) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1188/Program.cs) ✔️
+- Exercício 1189 - [Área Esquerda](https://www.beecrowd.com.br/judge/pt/problems/view/1189) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1189/Program.cs) ✔️
+- Exercício 1190 - [Área Direita](https://www.beecrowd.com.br/judge/pt/problems/view/1190) 👉🏻 [Resolução](https://github.com/Edsogarc/ExerciciosBeecrowd/blob/main/bcrw1190/Program.cs) ✔️

@@ -1,0 +1,15 @@
+C:\Users\edson\Desktop\Beecrowd\bcrw1179\bin\Debug\net6.0\bcrw1179.exe
+C:\Users\edson\Desktop\Beecrowd\bcrw1179\bin\Debug\net6.0\bcrw1179.deps.json
+C:\Users\edson\Desktop\Beecrowd\bcrw1179\bin\Debug\net6.0\bcrw1179.runtimeconfig.json
+C:\Users\edson\Desktop\Beecrowd\bcrw1179\bin\Debug\net6.0\bcrw1179.dll
+C:\Users\edson\Desktop\Beecrowd\bcrw1179\bin\Debug\net6.0\bcrw1179.pdb
+C:\Users\edson\Desktop\Beecrowd\bcrw1179\obj\Debug\net6.0\bcrw1179.csproj.AssemblyReference.cache
+C:\Users\edson\Desktop\Beecrowd\bcrw1179\obj\Debug\net6.0\bcrw1179.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edson\Desktop\Beecrowd\bcrw1179\obj\Debug\net6.0\bcrw1179.AssemblyInfoInputs.cache
+C:\Users\edson\Desktop\Beecrowd\bcrw1179\obj\Debug\net6.0\bcrw1179.AssemblyInfo.cs
+C:\Users\edson\Desktop\Beecrowd\bcrw1179\obj\Debug\net6.0\bcrw1179.csproj.CoreCompileInputs.cache
+C:\Users\edson\Desktop\Beecrowd\bcrw1179\obj\Debug\net6.0\bcrw1179.dll
+C:\Users\edson\Desktop\Beecrowd\bcrw1179\obj\Debug\net6.0\refint\bcrw1179.dll
+C:\Users\edson\Desktop\Beecrowd\bcrw1179\obj\Debug\net6.0\bcrw1179.pdb
+C:\Users\edson\Desktop\Beecrowd\bcrw1179\obj\Debug\net6.0\bcrw1179.genruntimeconfig.cache
+C:\Users\edson\Desktop\Beecrowd\bcrw1179\obj\Debug\net6.0\ref\bcrw1179.dll

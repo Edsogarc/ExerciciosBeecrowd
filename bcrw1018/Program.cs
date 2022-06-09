@@ -6,7 +6,8 @@ class Program
     static void Main(string[] args)
     {
         
-        /*int N, quociente, resto, nota;
+        /* Passou no Beecrowd o outro não
+        int N, quociente, resto, nota;
 
         N = int.Parse(Console.ReadLine());
         Console.WriteLine(N);
